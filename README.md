@@ -30,4 +30,4 @@ This script is designed to force devices with outdated KACE agents to check into
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the GNU General Public License v3.0
