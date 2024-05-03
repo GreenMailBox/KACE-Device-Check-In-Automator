@@ -26,7 +26,7 @@ This script is designed to force devices with outdated KACE agents to check into
 
 ## Contributors
 
-- [Your Name]
+- Joshua Hemingway
 
 ## License
 
